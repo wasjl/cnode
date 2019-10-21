@@ -1,0 +1,22 @@
+1、h5新特性
+   语义化标签：header、foote、section 、nav、aside、article
+   增强型表单：input的多个type
+   新增表单元素：datalist、keygen、output
+   新增表单属性：placehoder、requitrd、min和max
+   音频视频：auto、video
+   canvas
+   地理位置
+   拖拽
+   本地存储：localStorage-没有时间限制的数据 存储；sessionStorage 针对一个session的数据存储，当用户关闭浏览器窗口后，数据删除
+   新事件：onresize、ondrag、onscroll、onmousewheel、onerror、onplay、onpause
+   WebSocket:单个TCP连接上进行全双工通讯的协议
+   语义化标签
+   header  定义了文档的头部区域
+   footer   定义了文档的尾部区域
+   nav       定义文档的导航
+   section  定义文档中的节
+   article  定义页面独立的内容区域
+   aside    定义页面的侧边栏内容
+   detailes 用于描述文档或文档某个部分的细节
+   summary 标签包含details元素的标题
+   dialog  定义对话，比如提示框
